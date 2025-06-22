@@ -5,8 +5,8 @@
 - <b> Technical Skills Used </b>
   - [Project Description](https://github.com/Knocknock-AI/ActiveDirectoryLab)
 
- - <b> Deep Learning </b>
-   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b> Machine Learning, Apache Airflow & AWS Learning </b>
+   - [Stroke Prediction & Database Management](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b> Computer Vision </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
