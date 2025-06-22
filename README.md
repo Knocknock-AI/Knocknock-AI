@@ -13,6 +13,15 @@
  
 <h2>Certifications</h2>
 
+<h2>👨‍💻 Programming Languages:</h2>
+  - Python
+  - JavaScript
+  - C#
+  - C++
+  - C
+  - Java
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Jalal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
