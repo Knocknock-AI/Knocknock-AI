@@ -18,5 +18,5 @@
 [<img align="left" alt="Jalal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jalal | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-[email]: jkrayem68@gmail.com
+[email]: mailto:jkrayem68@gmail.com
 [linkedin]: https://www.linkedin.com/in/jalal-k-62b486129/
