@@ -16,5 +16,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Jalal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jalal | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
+[email]: https://accounts.google.com/Sign
 [linkedin]: https://www.linkedin.com/in/jalal-k-62b486129/
