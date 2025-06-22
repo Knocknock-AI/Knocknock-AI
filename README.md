@@ -14,12 +14,15 @@
 <h2>Certifications</h2>
 
 <h2>👨‍💻 Programming Languages:</h2>
-  - Python
-  - JavaScript
-  - C#
-  - C++
-  - C
-  - Java
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>C#</li>
+  <li>C++</li>
+  <li>C</li>
+  <li>Java</li>
+</ul>
+
 
 
 <h2> 🤳 Connect with me:</h2>
