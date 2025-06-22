@@ -14,10 +14,15 @@
 Skills to use in projects:
 
 Data Visualisation and BI: Power BI, Tableau, IBM Cognos Analytics, Google Looker Studio
+
 AI: Machine Learning, Deep Learning, Computer Vision, LLMs, Generative AI, Transformers, NLPs
+
 Cloud Computing & Platforms: AWS, Microsoft Azure
+
 Data Science: R, RStudio, Statistical Analysis, Data Exploration, Data Cleaning
+
 Databases & Data Management: SQL, NoSQL, PostgreSQL, MySQL, Relational Database Adminstration (DBA), Relational Database Management Systems (RDBMS), Database Management
+
 Data Engineering & Pipelines: Apache Kafka, Apache Airflow, Extract, Transform, and Load processes (ETL), Data Pipelines, Docker, Shell Scripting and Bash, Linux Systems (Ubuntu, WSL)
 
 
