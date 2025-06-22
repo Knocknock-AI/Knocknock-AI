@@ -11,9 +11,15 @@
 - <b> Computer Vision </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
- Skills to add:
+Skills to use in projects:
 
-Machine Learning, Deep Learning, Computer Vision, LLMs, Transformers, Kafka, Airflow, AWS, SQL, NoSQL, PostgreSQL, MySQL, Database Management, NLPs, Microsoft Azure, Docker, Power BI, Tableau, Shell Scripting, Linux Systems (Ubuntu, WSL),  
+Data Visualisation and BI: Power BI, Tableau, IBM Cognos Analytics, Google Looker Studio
+AI: Machine Learning, Deep Learning, Computer Vision, LLMs, Generative AI, Transformers, NLPs
+Cloud Computing & Platforms: AWS, Microsoft Azure
+Data Science: R, RStudio, Statistical Analysis, Data Exploration, Data Cleaning
+Databases & Data Management: SQL, NoSQL, PostgreSQL, MySQL, Relational Database Adminstration (DBA), Relational Database Management Systems (RDBMS), Database Management
+Data Engineering & Pipelines: Apache Kafka, Apache Airflow, Extract, Transform, and Load processes (ETL), Data Pipelines, Docker, Shell Scripting and Bash, Linux Systems (Ubuntu, WSL)
+
 
 <h2>Certifications</h2>
 
