@@ -3,7 +3,7 @@
 <h2>👨‍💻 AI Projects:</h2>
 
 - <b> Machine Learning </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/Knocknock-AI/ActiveDirectoryLab)
 
  - <b> Deep Learning </b>
    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
