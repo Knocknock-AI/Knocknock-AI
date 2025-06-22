@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Jalal! </h1>
 
-<!--
-**Knocknock-AI/Knocknock-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 AI Projects:</h2>
 
-Here are some ideas to get you started:
+- <b> Machine Learning </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - <b> Deep Learning </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b> Computer Vision </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+<h2>Certifications</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Jalal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jalal | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail" />][email]
+
+[email]: jkrayem68@gmail.com
+[linkedin]: https://www.linkedin.com/in/jalal-k-62b486129/
