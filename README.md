@@ -9,12 +9,9 @@
    - [Stroke Prediction & Database Management](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<section>
-  <h2>Data Visualization</h2>
+  <h3>Data Visualization</h3>
   - <b> IBM Cognos Analytics Visualization </b>
     - [Customer Loyalty Program EDA](https://github.com/Knocknock-AI/IBM-Cognos-Analytics)
-</section>
-
 
 
 
