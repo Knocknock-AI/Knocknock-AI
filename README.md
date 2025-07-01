@@ -8,10 +8,8 @@
  - <b> Machine Learning, Apache Airflow & AWS Learning </b>
    - [Stroke Prediction & Database Management](https://github.com/joshmadakor1/Algorithms-Practice)
 
-
-  <h3>Data Visualization</h3>
-  - <b> IBM Cognos Analytics Visualization </b>
-    - [Customer Loyalty Program EDA](https://github.com/Knocknock-AI/IBM-Cognos-Analytics)
+ - <b> IBM Cognos Analytics Visualization </b>
+   - [Customer Loyalty Program EDA](https://github.com/Knocknock-AI/IBM-Cognos-Analytics)
 
 
 
