@@ -8,8 +8,15 @@
  - <b> Machine Learning, Apache Airflow & AWS Learning </b>
    - [Stroke Prediction & Database Management](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b> Computer Vision </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<section>
+  <h2>Data Visualization</h2>
+  - <b> IBM Cognos Analytics Visualization </b>
+    - [Customer Loyalty Program EDA](https://github.com/Knocknock-AI/IBM-Cognos-Analytics)
+</section>
+
+
+
 
 Skills to use in projects:
 
