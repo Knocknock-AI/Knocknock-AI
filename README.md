@@ -9,7 +9,7 @@
    - [Stroke Prediction & Database Management](https://github.com/joshmadakor1/Algorithms-Practice)
 
  - <b> Data Visualization, Business Intelligence, and Interactive Dashboards</b>
-   - [Customer Loyalty Program on IBM Cognos Analytics](https://github.com/Knocknock-AI/IBM-Cognos-Analytics)
+   - [Sales & Customer Insights Dashboard using IBM Cognos Analytics](https://github.com/Knocknock-AI/IBM-Cognos-Analytics)
 
 
 
